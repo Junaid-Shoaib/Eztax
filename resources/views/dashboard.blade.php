@@ -11,7 +11,7 @@
 
                                 <!-- Dashboard Content Starts Here -->
                                 <!-- Subtitle -->
-                                <p class="text-muted mb-3">Overview of your legal notices and hearings</p>
+                                <p class="text-muted mb-3">Overview of your notices</p>
 
                                 <!-- Progress Box -->
                                 <div class="card border-1 p-3 rounded shadow-sm mb-4">
